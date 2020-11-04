@@ -1,7 +1,7 @@
 # COVID Impact on Canadian Stock Prices
 Contributors: Nick, Sebastion, Spencer, Stephen and Wazarat.
 
-![Covid_Stocks.jpg](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/main/04-Images/Covid_Stocks.jpg)
+![Covid_Stocks.jpg](https://github.com/The-Origianl-Spencer/Fintech_Project_1/blob/main/04-Images/Covid_Stocks.jpg)
 
 
 ## Outline
