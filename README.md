@@ -1,7 +1,7 @@
 # COVID Impact on Canadian Stock Prices
 Contributors: Nick, Sebastion, Spencer, Stephen and Wazarat.
 
-![Covid_Stocks.jpg](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/master/04-Images/Covid_Stocks.jpg)
+![Covid_Stocks.jpg](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/main/04-Images/Covid_Stocks.jpg)
 
 
 ## Outline
@@ -9,14 +9,14 @@ In this project we use various plotting technologies to visually examin the rela
 
 ### Table of Contents
 
-[Code](https://github.com/The-Original-Spencer/Fintech_Project_1/tree/master/01-Code)
+[Code](https://github.com/The-Origianl-Spencer/FinTech_Project_1/tree/main/01-Code)
 
-[Data](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/master/02-Data)
+[Data](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/main/02-Data)
 
-[Figures](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/master/03-Figures)
+[Figures](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/main/03-Figures)
 
-[Images](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/master/04-Images)
+[Images](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/main/04-Images)
 
-[Proposal](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/master/05-Proposal)
+[Proposal](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/main/05-Proposal)
 
-[Resources](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/master/06-Resources)
+[Resources](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/main/06-Resources)
