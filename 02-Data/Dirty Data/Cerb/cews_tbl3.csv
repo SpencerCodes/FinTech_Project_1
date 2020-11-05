@@ -1,0 +1,37 @@
+Claim Period,Size of Applicant,Applications Approved Since Launch,Number of Eligible Employees (Line A),Number of Eligible Employees on Leave with Pay (Line AA),Number of Employees Supported by the Program (Line A + Line AA),CEWS Amount Approved Since Launch,Average CEWS Amount per Employee,Percent Distribution of Approved Applications for Each Claim Period
+P1: March 15 to April 11,Small (25 or fewer employees ),171570,745670,         -,745670,1488369000,1996,0.7372
+P1: March 15 to April 11,Medium (26 to 250 employees),53600,1375950,         -,1375950,2775183000,2017,0.2303
+P1: March 15 to April 11,Large (over 250 employees),3840,1214990,         -,1214990,2672805000,2200,0.0165
+P1: March 15 to April 11,Not Available,3720,28650,         -,28650,57842000,2019,0.016
+P1: March 15 to April 11,Total - Period 1,232730,3365260,         -,3365260,6994199000,2078,1
+P2: April 12 to May 9,Small (25 or fewer employees ),192690,793130,         -,793130,1738691000,2192,0.7324
+P2: April 12 to May 9,Medium (26 to 250 employees),61880,1486740,         -,1486740,3467685000,2332,0.2352
+P2: April 12 to May 9,Large (over 250 employees),4570,1250590,         -,1250590,3212355000,2569,0.0174
+P2: April 12 to May 9,Not Available,3960,27260,         -,27260,62952000,2309,0.0151
+P2: April 12 to May 9,Total - Period 2,263100,3557710,         -,3557710,8481682000,2384,1
+P3: May 10 to June 6,Small (25 or fewer employees ),188470,898770,         -,898770,1857578000,2067,0.7352
+P3: May 10 to June 6,Medium (26 to 250 employees),59700,1604580,         -,1604580,3763933000,2346,0.2329
+P3: May 10 to June 6,Large (over 250 employees),4240,1277940,         -,1277940,3230535000,2528,0.0166
+P3: May 10 to June 6,Not Available,3920,29980,         -,29980,69100000,2305,0.0153
+P3: May 10 to June 6,Total - Period 3,256340,3811270,         -,3811270,8921145000,2341,1
+P4: June 7 to July 4,Small (25 or fewer employees ),162390,879510,         -,879510,1718900000,1954,0.7361
+P4: June 7 to July 4,Medium (26 to 250 employees),51180,1452810,         -,1452810,3282302000,2259,0.232
+P4: June 7 to July 4,Large (over 250 employees),3490,1162440,         -,1162440,2825481000,2431,0.0158
+P4: June 7 to July 4,Not Available,3550,28530,         -,28530,60610000,2124,0.0161
+P4: June 7 to July 4,Total - Period 4,220610,3523290,         -,3523290,7887294000,2239,1
+P5: July 5 to August 1,Small (25 or fewer employees ),137130,719670,8480,728150,1440278000,1978,0.7228
+P5: July 5 to August 1,Medium (26 to 250 employees),46490,1484470,13130,1497600,2677493000,1788,0.245
+P5: July 5 to August 1,Large (over 250 employees),3170,1072770,30810,1103570,1971679000,1787,0.0167
+P5: July 5 to August 1,Not Available,2930,30590,280,30880,50809000,1645,0.0155
+P5: July 5 to August 1,Total - Period 5,189730,3307500,52700,3360190,6140259000,1827,1
+P6: August 2 to August 29,Small (25 or fewer employees ),118380,648410,6330,654740,1217531000,1860,0.7171
+P6: August 2 to August 29,Medium (26 to 250 employees),41470,1350270,9430,1359700,2299693000,1691,0.2512
+P6: August 2 to August 29,Large (over 250 employees),2760,934120,28280,962410,1525806000,1585,0.0167
+P6: August 2 to August 29,Not Available,2480,23770,170,23930,38317000,1601,0.015
+P6: August 2 to August 29,Total - Period 6,165090,2956570,44210,3000790,5081347000,1693,1
+P7: August 30 to September 26,Small (25 or fewer employees ),71050,393980,3870,397850,496408000,1248,0.7165
+P7: August 30 to September 26,Medium (26 to 250 employees),25050,804500,5530,810030,856767000,1058,0.2527
+P7: August 30 to September 26,Large (over 250 employees),1480,436100,7110,443210,418247000,944,0.0149
+P7: August 30 to September 26,Not Available,1570,15090,100,15190,16957000,1116,0.0159
+P7: August 30 to September 26,Total - Period 6,99150,1649670,16610,1666280,1788379000,1073,1
+Total (All Periods),Total (All Periods),1426750,         -,         -,         -,45294305000,                   -,   -    
