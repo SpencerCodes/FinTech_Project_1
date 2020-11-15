@@ -1,11 +1,11 @@
 # COVID Impact on Canadian Stock Prices
-Contributors: Nick, Sebastion, Spencer, Stephen and Wazarat.
+Contributors: Sebastion, Spencer, Stephen and Wazarat.
 
 ![Covid_Stocks.jpg](https://github.com/The-Origianl-Spencer/Fintech_Project_1/blob/main/04-Images/Covid_Stocks.jpg)
 
 
 ## Outline
-In this project we use various plotting technologies to visually examin the relationship between COVID-19 cases and the stock value of top major Canadian companies traded on tsx.
+In this project we use various plotting technologies to visually examin the impact that rising covid cases and government response had on the canadian stock market.
 
 ### Table of Contents
 
@@ -19,4 +19,6 @@ In this project we use various plotting technologies to visually examin the rela
 
 [Proposal](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/main/05-Proposal)
 
-[Resources](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/main/06-Resources)
+[Presentation](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/main/06-Presentation)
+
+[Resources](https://github.com/The-Origianl-Spencer/Fintech_Project_1/tree/main/07-Resources)
